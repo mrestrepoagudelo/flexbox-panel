@@ -1,6 +1,8 @@
 <h1> PanelFlexbox </h1>
 Panel made with flexbox
 
+Example available at https://mdmoreau.github.io/flextabs/
+
 <h3>Include PanelFlexbox CSS:</h4>
 
 ```html
