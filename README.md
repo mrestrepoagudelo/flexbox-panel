@@ -1,4 +1,4 @@
-<h1> PanelFlexbox </h1>
+<h1> Panel Flexbox </h1>
 Panel made with flexbox
 
 Example available at https://mrestrepoagudelo.github.io/flexbox-panel/
